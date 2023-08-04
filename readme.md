@@ -1,5 +1,8 @@
 # How to use
 
+## Downloading
+Please download the full source and drag it into a folder
+
 ## Configuring
 - change the values in `options.js` to your liking
 - username should be your actual vstream username (i.e. mine is h3llo_wor1d)
