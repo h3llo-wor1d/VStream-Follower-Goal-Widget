@@ -1,7 +1,7 @@
 # How to use
 
 ## Downloading
-Please download the full source and drag it into a folder
+Please download the full source and drag it into an easily accessible folder
 
 ## Configuring
 - change the values in `options.js` to your liking
